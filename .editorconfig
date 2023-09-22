@@ -13,7 +13,7 @@ indent_size = 4
 
 [repo.json]
 indent_style = space
-indent_size = 2
+indent_size = 3
 
 [Dockerfile]
 indent_style = tab
@@ -25,11 +25,11 @@ indent_size = 4
 [*.md]
 trim_trailing_whitespace = true
 indent_style = space
-indent_size = 2
+indent_size = 4
 
 [*.{yml,yaml}]
 indent_style = space
-indent_size = 2
+indent_size = 3
 
 [ndk-patches/*.h]
 indent_style = tab
